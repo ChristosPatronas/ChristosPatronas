@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ChristosPatronas
+- 👋 Hi, I’m Christos Patronas
 - 👀 I’m interested in web development especially in wordpress,drupal and javascript, 
 - 🌱 I’m currently learning js DOM and Reactjs,
 - 💞️ I’m looking to collaborate on big projects for website ideas,
