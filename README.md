@@ -13,5 +13,5 @@ ___
 
 ##   Technologies & Tools
 
-
+#### <i class="fa-brands fa-html5"></i> HTML5
 
