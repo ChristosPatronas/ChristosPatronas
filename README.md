@@ -1,3 +1,4 @@
+___
 - 👋 Hi, I’m Christos Patronas
 - 👀 I’m interested in web development especially in wordpress,drupal and javascript, 
 - 🌱 I’m currently learning JS DOM and React.Js,
@@ -11,8 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 ___
 
-##   Technologies & Tools
 
-#### <i class="fa-brands fa-html5"> </i> HTML5 
-{: #html5}
 
