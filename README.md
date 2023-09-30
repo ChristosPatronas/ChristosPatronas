@@ -12,6 +12,8 @@ You can click the Preview link to take a look at your changes.
 ___
 
 ##   Technologies & Tools
+<i class="fa-brands fa-wordpress"></i>
+
 
 
 
